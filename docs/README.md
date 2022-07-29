@@ -1,9 +1,27 @@
 
 # Task list
+<!-- tabs:start -->
+<!-- tab:ACL -->
+- how to hidden customers emails for certain administration role?
+- attribute permission for user ( edit add delete for admin only)
+- give assess to change address only not orders
+- user permission to export datea customers,sales
+<!-- tab:inventory -->
+- manage inventory on website level
+<!-- tab:Catalog -->
+- stock level quanity on product page
+- enquiry button with popup form
+- smart category rule automate
+- category page set product position
+<!-- tab:shipping -->
+<!-- tab:payment -->
+<!-- tab:customer -->
+<!-- tab:store -->
+- mulitple stores/website  have  different permission for every aspect
+<!-- tabs:end -->
 
 
-
-# 2. TO DO List
+**TO DO List**
 
 ```
 . Introduction
