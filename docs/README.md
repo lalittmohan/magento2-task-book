@@ -1,12 +1,11 @@
-**Concepts**
+**topics**
 
-<!-- tabs:start -->
-<!-- tab:2.4.5 -->
+
 |[cron-jobs](/)| [crontab](/)|[shipping tax](/)|[shipping methods](/)|[shipping address](/)|[free shipping ](/)|[shipping tax](/)|[custom shipping method](/)|[3rd party modules](/)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |[shipping tracking](/)| [category](/)|[product](/)|[checkout](/)|[admin](/)|[module ](/)|[database](/)|[layout](/)|[cart](/)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|[attribute](/)| [javascript](/)|[orders](/)|[event-observer](/)|[configurable-product](/)|[customer ](/)|[error](/)|[product-attribute](/)|[blocks](/)|
+|[attribute](/)|[javascript](/)|[orders](/)|[event-observer](/)|[configurable-product](/)|[customer ](/)|[error](/)|[product-attribute](/)|[blocks](/)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |[api](/)| [adminhtml](/)|[price](/)|[collection](/)|[theme](/)|[email](/)|[extensions](/)|[grid](/)|[template](/)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,12 +21,3 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |[product review](/)| [product sorting](/)|[product price](/)|[associate product](/)|[virtual product](/)|[new products ](/)|[product edit](/)|[product listing](/)|[product detail page](/)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-<!-- tab:2.4.4 -->
-<!-- tab:2.4.3 -->
-<!-- tab:2.4.2 -->
-<!-- tab:2.4.1 -->
-<!-- tab:2.4.0 -->
-<!-- tab:2.3.5 -->
-<!-- tab:2.2.8 -->
-<!-- tabs:end -->
